@@ -1,2 +1,2 @@
-# codigo-Ricardo
-Codigo corregido
+# PRO-C22
+estructura alámbrica para c22 
